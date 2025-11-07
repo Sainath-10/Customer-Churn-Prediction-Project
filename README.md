@@ -55,4 +55,4 @@ Model performance checked on test data.
 
 ## 📊 Results
 
-**Accuracy : 96.4%**
+**Accuracy : 86.4%**
